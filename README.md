@@ -42,6 +42,11 @@ Seeding the databse
 
 https://user-images.githubusercontent.com/15232220/170545302-bd969283-f8c1-4d53-a62c-00a67712beea.mp4
 
+Creating schema
+
+https://user-images.githubusercontent.com/15232220/170546205-5fb122e8-d30c-4c48-88b0-2882686267ec.mp4
+
+
 
 
 
