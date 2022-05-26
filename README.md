@@ -47,6 +47,11 @@ Creating schema
 https://user-images.githubusercontent.com/15232220/170546205-5fb122e8-d30c-4c48-88b0-2882686267ec.mp4
 
 
+GET Routes
+
+https://user-images.githubusercontent.com/15232220/170547430-ee853be6-ce9b-48ec-90c4-6bf3c4c2eb72.mp4
+
+POST,PUT,DELETE for all
 
 
 
