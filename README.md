@@ -38,6 +38,10 @@ npm start
 
 
 
+Seeding the databse
+
+https://user-images.githubusercontent.com/15232220/170545302-bd969283-f8c1-4d53-a62c-00a67712beea.mp4
+
 
 
 
