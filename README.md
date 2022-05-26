@@ -29,6 +29,11 @@ npm install
 ```
 
 To start the application
+seed the database
+
+```text
+npm run seed
+```
 
 ```text
 npm start
@@ -36,9 +41,7 @@ npm start
 
 ## Usage
 
-
-
-Seeding the databse
+Seeding the database
 
 https://user-images.githubusercontent.com/15232220/170545302-bd969283-f8c1-4d53-a62c-00a67712beea.mp4
 
@@ -53,12 +56,7 @@ https://user-images.githubusercontent.com/15232220/170547430-ee853be6-ce9b-48ec-
 
 POST,PUT,DELETE for all
 
-
-
 https://user-images.githubusercontent.com/15232220/170555289-fb88b7a5-b3da-430e-ad26-2f005c827bc2.mp4
-
-
-
 
 ## Credits
 
